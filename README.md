@@ -49,5 +49,5 @@
 ## Pictures
 
 *Circuit*  
-![Gameplay Screenshot](Repair_Rush_Loading_Screen.png)
+![Gameplay Screenshot](Final_Project_AMP_Circuit.png)
 
