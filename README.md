@@ -43,7 +43,7 @@
 
 1. Capture audio from a mic circuit via AD2 or MATLAB's audio interface  
 2. MATLAB shifts the pitch using resampling or DSP  
-3. Output the processed audio to speaker/headphones
+3. Output the processed audio to speaker
 
 ---
 ## Pictures
