@@ -1,12 +1,12 @@
-# PitchShift Lab – Real-Time Audio Distortion Project
+# Audio Distortion Project
 
-**PitchShift Lab** is a real-time audio processing experiment that captures live microphone input, alters the pitch of the signal, and outputs the distorted audio using a combination of custom hardware and software. The system uses a microphone circuit to capture audio, **Analog Discovery 2 (AD2)** for interfacing, and **MATLAB** for digital signal processing and playback.
+**Audio Distortion** is an audio processing experiment that captures live microphone input, alters the signal's pitch, and outputs the distorted audio using a combination of custom hardware and software. The system uses a microphone circuit to capture audio, **Analog Discovery 2 (AD2)** for interfacing, and **MATLAB** for digital signal processing and playback.
 
 ---
 
 ## Features
 
-- Live pitch shifting using real-time or near-real-time MATLAB processing
+- Pitch shifting using near-real-time MATLAB processing
 - Custom microphone preamp circuit for clean signal input
 - Signal visualization (waveforms and spectrograms)
 - Integration with AD2 for analog input/output (via WaveForms or SDK)
@@ -32,7 +32,6 @@
 
 2. **MATLAB & Dependencies**  
    - MATLAB R2022+ recommended  
-   - No extra toolboxes required for the basic version
 
 3. **WaveForms Setup**  
    - Use WaveForms to stream or record audio signals (optional)  
@@ -47,4 +46,8 @@
 3. Output the processed audio to speaker/headphones
 
 ---
+## Pictures
+
+*Circuit*  
+![Gameplay Screenshot](Repair_Rush_Loading_Screen.png)
 
